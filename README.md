@@ -4,7 +4,7 @@ A complete real-time data streaming solution that integrates Apache Airflow, Apa
 
 ## Architecture
 
-![Architecture Diagram](https://github.com/nlhtungg/)
+![Architecture Diagram](https://github.com/nlhtungg/real-time-data-streaming/blob/master/architecture.png)
 
 This project implements the following data pipeline:
 
